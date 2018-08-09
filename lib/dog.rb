@@ -3,5 +3,7 @@ class Dog
 end
 
 def bark 
-  @bark.Dog
+  puts "woof!"
+end 
+  bark = Dog.new
   
