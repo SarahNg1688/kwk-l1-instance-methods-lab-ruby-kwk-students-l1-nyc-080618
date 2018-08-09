@@ -7,3 +7,6 @@ def walk
   puts "The Person is walking."
 end
 end
+peep = Person.new 
+peep.talk
+peep.walk
